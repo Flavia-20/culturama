@@ -11,7 +11,7 @@
 /* Categorias */
 
 .categorias__lista {
-    display: flex;
+    display: flex; /*para deixar os elementos em linha*/
     flex-direction: column;
     row-gap: .5rem;
 }
